@@ -1,6 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/upload-button/page": "app/upload-button/page.js",
-  "/upload-dnd/page": "app/upload-dnd/page.js",
-  "/api/uploadthing/route": "app/api/uploadthing/route.js"
-}
